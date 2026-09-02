@@ -1,16 +1,16 @@
-Distance Between Two Points Calculator
+#Distance Between Two Points Calculator
 ##Get the coordinates
 point_x1 = float(input("Enter the x1: "))
 point_x2 = float(input("Enter the x2: "))
 point_y1 = float(input("Enter the y1: "))
 point_y2 = float(input("Enter the y2: "))
 
-Square the differences using pow()
+##Square the differences using pow()
 point_a = pow(point_x2 - point_x1, 2)
 point_b = pow(point_y2 - point_y1, 2)
 
-Add them together and take the square root to solve
+##Add them together and take the square root to solve
 distance = pow(point_a + point_b, 0.5)
 
-Print the final solution
+##Print the final solution
 print("The distance between the points is:", distance)
