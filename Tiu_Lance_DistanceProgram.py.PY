@@ -9,7 +9,7 @@ point_y2 = float(input("Enter the y2: "))
 point_a = pow(point_x2 - point_x1, 2)
 point_b = pow(point_y2 - point_y1, 2)
 
-##Add them together and take the square root to solve
+##Add them together and take the square root to solve 
 distance = pow(point_a + point_b, 0.5)
 
 ##Print the final solution
