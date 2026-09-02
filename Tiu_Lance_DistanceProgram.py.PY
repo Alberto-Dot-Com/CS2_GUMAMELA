@@ -1,5 +1,5 @@
 Distance Between Two Points Calculator
-Get the coordinates
+##Get the coordinates
 point_x1 = float(input("Enter the x1: "))
 point_x2 = float(input("Enter the x2: "))
 point_y1 = float(input("Enter the y1: "))
