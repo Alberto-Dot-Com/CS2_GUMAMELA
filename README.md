@@ -37,6 +37,6 @@ The distance between the two points is: 7.07
 
 ## Author
 
-Name: lance T. Tiu
+Name: Lance T. Tiu
 
 Section: 8-gumamela
