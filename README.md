@@ -37,6 +37,6 @@ The distance between the two points is: 7.07
 
 ## Author
 
-Name: Juan Dela Cruz
+Name: lance T. Tiu
 
-Section: 8-Sampaguita
+Section: 8-gumamela
